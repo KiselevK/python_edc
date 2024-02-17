@@ -1,0 +1,14 @@
+App 1 Notes
+This app must have next functional:
+- Variable where to store notes 
+- Possobility to add note
+- Possobility to edit note
+- Possobility to remove note
+- Possobility to show all notes
+-- Each note should be from new line
+-- Each note should start with upper case
+
+
+
+
+
